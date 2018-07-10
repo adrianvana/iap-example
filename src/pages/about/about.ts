@@ -10,7 +10,7 @@ export class AboutPage implements OnInit {
 
   public product: any = {
     name: 'My Product',
-    appleProductId: '1234',
+    appleProductId: 'ren1',
     googleProductId: 'com.38plank.spartan_one'
   };
 
